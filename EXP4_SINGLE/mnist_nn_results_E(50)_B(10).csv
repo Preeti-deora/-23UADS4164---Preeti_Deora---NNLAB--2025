@@ -1,0 +1,2 @@
+Batch Size,Epochs,Train Loss,Train Accuracy,Test Accuracy,Execution Time
+10,50,1.8676014,0.37895,0.377,8552.669072151184
