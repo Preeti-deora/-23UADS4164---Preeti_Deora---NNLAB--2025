@@ -1,0 +1,3 @@
+Batch Size,Filter Size,Optimizer,Regularization,Train Accuracy,Train Loss,Test Accuracy,Test Loss
+200,3,AdamW,<keras.src.regularizers.regularizers.L2 object at 0x7ca0a6be3290>,0.9592333436012268,0.21139468252658844,0.9455999732017517,0.2647329568862915
+128,3,AdamW,<keras.src.regularizers.regularizers.L2 object at 0x7ca0a524c710>,0.9607333540916443,0.20562508702278137,0.9448999762535095,0.26481929421424866
